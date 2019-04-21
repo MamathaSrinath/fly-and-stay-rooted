@@ -11,7 +11,7 @@ public class Shop {
 		double checkoutPayment = 0;
 
 		//give my shopping specifications
-		myShoes.size = 8;
+		myShoes.size = 7;
 		myClothes.size = "L";
 		myClothes.actualPrice = 1000;
 		myShoes.actualPrice = 750;
