@@ -12,7 +12,7 @@ public class Shop {
 
 		//give my shopping specifications
 		myShoes.size = 7;
-		myClothes.size = "L";
+		myClothes.size = "XL";
 		myClothes.actualPrice = 1000;
 		myShoes.actualPrice = 750;
 		
